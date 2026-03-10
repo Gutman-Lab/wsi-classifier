@@ -1,4 +1,4 @@
-# WSI 360° — Whole Slide Image Comprehensive Classifier
+# Whole Slide Image Comprehensive Classifier
 
 A end-to-end Jupyter notebook pipeline (`Classifier.ipynb`) for **deep computational pathology analysis** of H&E-stained Whole Slide Images (WSI). The pipeline implements **44 single-slide analysis modules** plus a full **multi-slide cohort analysis** block, covering classical image processing, deep learning, graph topology, spatial statistics, and prognostic scoring.
 
@@ -325,7 +325,3 @@ The pipeline implements methods from the following publications:
 | Multi-scale feature fusion | Lu et al., Lancet Digital Health 2021 |
 
 ---
-
-## License
-
-This project is for research and educational purposes. Please ensure compliance with your institution's data governance policies when using patient-derived slide images.
